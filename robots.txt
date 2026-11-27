@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://saifii007.github.io/angunet-site/sitemap.xml
+Sitemap: https://saifii007.github.io/angunet-site/image-sitemap.xml
+
